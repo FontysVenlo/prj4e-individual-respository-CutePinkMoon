@@ -8,7 +8,7 @@ I want to build a small pet robot, while focusing on two main activities: analys
 
 **Plan:**
 ### Week 1:
-Market analysis of similar products:
+Market analysis of similar products:  
 [Anki Cozmo Robot](https://ankicozmorobot.com/)  
 [Anki Vector Robot](https://anki.bot/)  
 [Difference between Cozmo and Vector](https://www.reddit.com/r/AnkiVector/comments/cknxyo/whats_difference_in_vector_and_cozmo/)  
