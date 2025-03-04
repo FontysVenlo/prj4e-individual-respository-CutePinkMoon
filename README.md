@@ -9,12 +9,12 @@ I want to build a small pet robot, while focusing on two main activities: analys
 **Plan:**
 ### Week 1:
 Market analysis of similar products:
-[Anki Cozmo Robot](https://ankicozmorobot.com/)
-[Anki Vector Robot](https://anki.bot/)
-[Difference between Cozmo and Vector](https://www.reddit.com/r/AnkiVector/comments/cknxyo/whats_difference_in_vector_and_cozmo/)
-[Cozmo Specs](https://people.tamu.edu/~hsieh/ICIA/CozmoRobot/CozPendant.pdf)
-[Anki Wikipedia](https://en.wikipedia.org/wiki/Anki_(American_company))
-[Why Did Anki Go Bankrupt](https://www.failory.com/cemetery/anki)
+[Anki Cozmo Robot](https://ankicozmorobot.com/)  
+[Anki Vector Robot](https://anki.bot/)  
+[Difference between Cozmo and Vector](https://www.reddit.com/r/AnkiVector/comments/cknxyo/whats_difference_in_vector_and_cozmo/)  
+[Cozmo Specs](https://people.tamu.edu/~hsieh/ICIA/CozmoRobot/CozPendant.pdf)  
+[Anki Wikipedia](https://en.wikipedia.org/wiki/Anki_(American_company))  
+[Why Did Anki Go Bankrupt](https://www.failory.com/cemetery/anki)  
 
 ### Week 2:
 Analysis of what parts are needed and how to use them:
