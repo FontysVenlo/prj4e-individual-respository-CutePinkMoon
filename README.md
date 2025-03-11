@@ -31,9 +31,9 @@ Targeted interaction: Similar to personal leadership i will keep communication o
 
 **Plan:**
 ### Week 1:
-Future-Oriented organization: Look at the market analysis, it gives good insight into the future of this project since similar products already exist and we can learn from them for risks and factors.
-Investigative ability: No issues so far, just things that need to get done like the Project Charter and component details.
-Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)
-Targeted interaction: The project idea has been continuosly developed with the team and feedback from the project coach has been incorporated as seen in the project idea.
+Future-Oriented organization: Look at the market analysis, it gives good insight into the future of this project since similar products already exist and we can learn from them for risks and factors.  
+Investigative ability: No issues so far, just things that need to get done like the Project Charter and component details.  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction: The project idea has been continuosly developed with the team and feedback from the project coach has been incorporated as seen in the project idea.  
 
 ### Week 2:
