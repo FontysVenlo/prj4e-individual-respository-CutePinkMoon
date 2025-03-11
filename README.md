@@ -24,3 +24,16 @@ Student applies professional skills at level 2 in the focus areas: future-orient
 
 **In my own words:**
 
+Future-Oriented organization: I will keep all future social and enviromental factors in mind that may hinder me while working towards the clear defined end of the project.  
+Investigative ability: I will keep an eye open for issues during the project, identify what is lacking and look for the appropriate means to fix the issue, all while keeping an open mind for different solutions.  
+Personal leadership: I will listen to all team members and relevant stakeholders on their feedback and incorporate it into the project.  
+Targeted interaction: Similar to personal leadership i will keep communication open with all team members and relevant stakeholders to facilitate an enviroment of collaboration.
+
+**Plan:**
+### Week 1:
+Future-Oriented organization: Look at the market analysis, it gives good insight into the future of this project since similar products already exist and we can learn from them for risks and factors.
+Investigative ability: No issues so far, just things that need to get done like the Project Charter and component details.
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)
+Targeted interaction: The project idea has been continuosly developed with the team and feedback from the project coach has been incorporated as seen in the project idea.
+
+### Week 2:
