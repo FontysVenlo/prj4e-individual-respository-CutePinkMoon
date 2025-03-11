@@ -18,6 +18,7 @@ Market analysis of similar products:
 
 ### Week 2:
 Analysis of what parts are needed and how to use them:
+[How to draw electrical diagrams](https://www.smartdraw.com/circuit-diagram/how-to-draw-electrical-diagrams.htm)
 
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
