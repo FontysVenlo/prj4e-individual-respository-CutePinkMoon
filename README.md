@@ -18,6 +18,14 @@ Market analysis of similar products:
 
 ### Week 2:
 Analysis of what parts are needed and how to use them:  
+[C library for voice recognition](https://github.com/H2CO3/libsprec)  
+[Offline voice recognition](https://www.reddit.com/r/arduino/comments/1ahj7p1/fully_offline_voice_recognition_module_with/)  
+[DC Motor control](https://docs.arduino.cc/tutorials/motor-shield-rev3/msr3-controlling-dc-motor/)  
+[Voice recognition sensor](https://www.dfrobot.com/product-2665.html?tracking=65bf32787571b)  
+[Parts list](https://github.com/FontysVenlo/prj4e-repository-group_e01/blob/main/doc/parts_list.md)  
+
+### Week 3:
+Design Electrical layout:  
 [How to draw electrical diagrams](https://www.smartdraw.com/circuit-diagram/how-to-draw-electrical-diagrams.htm)  
 
 ## LO2:
@@ -38,3 +46,7 @@ Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_
 Targeted interaction: The project idea has been continuosly developed with the team and feedback from the project coach has been incorporated as seen in the [project idea](https://github.com/FontysVenlo/prj4e-repository-group_e01/blob/main/doc/Project_4_Project_Idea.pdf).  
 
 ### Week 2:
+Future-Oriented organization: A parts list has been made, this can also give insight into what problems may occour.  
+Investigative ability: The parts list and how to use certain parts, plus c and arduino libraries that have been found show a good investigative ability.  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction: The [Parts list](https://github.com/FontysVenlo/prj4e-repository-group_e01/blob/main/doc/parts_list.md) has been created and discussed with the team and will be discussed with the project coach.  
