@@ -28,6 +28,18 @@ Analysis of what parts are needed and how to use them:
 Design Electrical layout:  
 [How to draw electrical diagrams](https://www.smartdraw.com/circuit-diagram/how-to-draw-electrical-diagrams.htm)  
 
+### Week 4:
+Learn how to use physical components:
+[Soldering]
+[Blinking LED]
+[Traffic Light]
+
+### Week 5:
+Learn how to use physical components:
+[Heartbeat]
+[PWM]
+[Gyroscope](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)
+
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
 
