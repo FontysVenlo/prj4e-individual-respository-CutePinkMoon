@@ -40,6 +40,12 @@ Learn how to use physical components:
 [PWM]  
 [Gyroscope](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)  
 
+### Week 6:
+
+### Week 7:
+
+### Week 8:
+
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
 
@@ -62,3 +68,15 @@ Future-Oriented organization: A parts list has been made, this can also give ins
 Investigative ability: The parts list and how to use certain parts, plus c and arduino libraries that have been found show a good investigative ability.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
 Targeted interaction: The [Parts list](https://github.com/FontysVenlo/prj4e-repository-group_e01/blob/main/doc/parts_list.md) has been created and discussed with the team and will be discussed with the project coach.  
+
+### Week 3:
+
+### Week 4:
+
+### Week 5:
+
+### Week 6:
+
+### Week 7:
+
+### Week 8:
