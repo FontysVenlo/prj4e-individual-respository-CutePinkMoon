@@ -30,21 +30,26 @@ Design Electrical layout:
 
 ### Week 4:
 Learn how to use physical components:  
-[Soldering]  
-[Blinking LED]  
-[Traffic Light]  
+[Soldering](/doc/): Can be observed in any of the videos.  
+[Blinking LED](/doc): No video taken but next step is traffic light.  
+[Traffic Light](/doc/Traffic_Light.mp4)  
 
 ### Week 5:
 Learn how to use physical components:  
-[Heartbeat]  
-[PWM]  
+[Heartbeat](/doc/): Can be observed in any of the videos.  
+[PWM](/doc/PWM.mp4)  
 [Gyroscope](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)  
 
 ### Week 6:
+Learn how to use physical components:  
+[I2C](/doc/I2C.mp4)  
 
 ### Week 7:
+Learn how to use physical components:  
+[Analog reading](/doc/Analog_Input.mp4)  
 
 ### Week 8:
+First project week, connect first sensors and components.  
 
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
