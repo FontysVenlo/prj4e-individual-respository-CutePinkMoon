@@ -51,6 +51,11 @@ Learn how to use physical components:
 ### Week 8:
 First project week, connect first sensors and components.  
 
+### Week 9:
+Second project week, hash out further details.  
+
+### Week 10:
+
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
 
