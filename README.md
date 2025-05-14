@@ -56,6 +56,8 @@ Second project week, hash out further details.
 
 ### Week 10:
 
+### Week 11:
+
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
 
@@ -90,3 +92,9 @@ Targeted interaction: The [Parts list](https://github.com/FontysVenlo/prj4e-repo
 ### Week 7:
 
 ### Week 8:
+
+### Week 9:
+
+### Week 10:
+
+### Week 11:
