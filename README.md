@@ -55,8 +55,10 @@ First project week, connect first sensors and components.
 Second project week, hash out further details.  
 
 ### Week 10:
+Connect all sensors and cables to breadboard, have chassis printed out.  
 
 ### Week 11:
+Get microphones working, get motors driving.  
 
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
@@ -82,19 +84,55 @@ Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_
 Targeted interaction: The [Parts list](https://github.com/FontysVenlo/prj4e-repository-group_e01/blob/main/doc/parts_list.md) has been created and discussed with the team and will be discussed with the project coach.  
 
 ### Week 3:
+Future-Oriented organization: Electrical diagram has been made, this can be updated with more parts later on and gives insights into how everything is connected and will be connected.  
+Investigative ability: No further issues have arisen so far.  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction: Further communication is being had between team members.  
 
 ### Week 4:
+Future-Oriented organization: No further factors currently that could impede progress.  
+Investigative ability: Progress has slowed a bit, but no further issues so far.  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction: Continued interaction and feedback with both team members and project coaches.  
 
 ### Week 5:
+Future-Oriented organization: Further sensors have been tested and the calculations that need to be done may become a problem.  
+Investigative ability: As mentioned above, the calculations for using the gyroscope may become an issue.  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction: Issues are being discussed with team members.  
 
 ### Week 6:
+Future-Oriented organization: New IR sensor has arrived since previous one didnt work, is tested and works now.  
+Investigative ability: No further issues so far.  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction: New parts have been discussed with team members.  
 
 ### Week 7:
+Future-Oriented organization:  
+Investigative ability:   
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
 
 ### Week 8:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
 
 ### Week 9:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
 
 ### Week 10:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
 
 ### Week 11:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
