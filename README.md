@@ -60,6 +60,15 @@ Connect all sensors and cables to breadboard, have chassis printed out.
 ### Week 11:
 Get microphones working, get motors driving.  
 
+### Week 12:
+Work on code.
+
+### Week 13:
+
+### Week 14:
+
+
+
 ## LO2:
 Student applies professional skills at level 2 in the focus areas: future-oriented organization, investigative ability, personal leadership, and targeted interaction.
 
@@ -132,6 +141,24 @@ Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_
 Targeted interaction:  
 
 ### Week 11:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
+
+### Week 12:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
+
+### Week 13:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
+
+### Week 14:
 Future-Oriented organization:  
 Investigative ability:  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
