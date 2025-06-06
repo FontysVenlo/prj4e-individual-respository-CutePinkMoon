@@ -64,8 +64,16 @@ Get microphones working, get motors driving.
 Work on code.
 
 ### Week 13:
+Try out first monitor.  
 
 ### Week 14:
+Figure out how to get robot driving and turning.  
+
+### Week 15:
+Finalize Design, get monitor and faces working, work on smaller issues.  
+
+### Week 16:
+Make minor tweaks and improvements.  
 
 
 
@@ -159,6 +167,18 @@ Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_
 Targeted interaction:  
 
 ### Week 14:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
+
+### Week 15:
+Future-Oriented organization:  
+Investigative ability:  
+Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
+Targeted interaction:  
+
+### Week 16:
 Future-Oriented organization:  
 Investigative ability:  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
