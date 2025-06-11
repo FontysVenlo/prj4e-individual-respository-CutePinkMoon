@@ -51,7 +51,7 @@ Learn how to use physical components:
 [Analog reading](/doc/Analog_Input.mp4)  
 
 ### Week 8:
-First project week, connect first sensors and components. 
+First project week, connect first sensors and components.  
 [IR Sensor Datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/002306254DS00/datablad-2306254-joy-it-sen-ky032ir-ir-zender-geschikt-voor-serie-arduino-bbc-microbit-raspberry-pi-1-stuks.pdf)  
 [IR Sensor code](https://arduinomodules.info/ky-032-infrared-obstacle-avoidance-sensor-module/)  
 [Gyroscope Datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/002136256DS01/datablad-2136256-joy-it-mpu6050-versnellingssensor-geschikt-voor-serie-bbc-microbit-arduino-raspberry-pi-rock-pi-banana-pi-c-cont.pdf)  
