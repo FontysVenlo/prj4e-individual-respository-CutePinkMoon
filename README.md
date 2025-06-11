@@ -47,49 +47,53 @@ Finalizing parts list, Learn how to use physical components:
 
 ### Week 7:
 Learn how to use physical components:  
-[Button]
+[Button](/doc/Button.mp4)  
 [Analog reading](/doc/Analog_Input.mp4)  
 
 ### Week 8:
 First project week, connect first sensors and components. 
-[IR Sensor] Found out was broken
+[IR Sensor Datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/002306254DS00/datablad-2306254-joy-it-sen-ky032ir-ir-zender-geschikt-voor-serie-arduino-bbc-microbit-raspberry-pi-1-stuks.pdf)  
+[IR Sensor code](https://arduinomodules.info/ky-032-infrared-obstacle-avoidance-sensor-module/)  
+[Gyroscope Datasheet](https://asset.conrad.com/media10/add/160267/c1/-/en/002136256DS01/datablad-2136256-joy-it-mpu6050-versnellingssensor-geschikt-voor-serie-bbc-microbit-arduino-raspberry-pi-rock-pi-banana-pi-c-cont.pdf)  
+[Gyroscope code](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/)  
 
 ### Week 9:
 Second project week, hash out further details and plan physical construction of the robot.  
-[Base Design]
+[Base Design](/doc/3dmodel.png)  
 
 ### Week 10:
 Connect all sensors and cables to breadboard, have chassis printed out.  
-[Robot]
+[Robot top](/doc/Robot_not_done.JPEG)  
 
 ### Week 11:
 Get microphones working, add ultra sonic sensors.  
-[Microphone]
-[Ultra sonic]
+[Microphone Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/max9814.pdf)  
+[Ultra sonic](/doc/Robot_front_noM.JPEG)  
 
 ### Week 12:
 Work on code, seperate code out into classes and header files.  
-[Code]
+[Code](https://github.com/FontysVenlo/prj4e-repository-group_e01/tree/main/src/lynx/src)  
 
 ### Week 13:
 Try out first monitor, first drive.  
-[Monitor]
-[SPI]
-[Datasheet]
+[Monitor](/doc/Old_monitor.JPEG)  
+[Monitor Datasheet](https://docs.rs-online.com/f34a/0900766b813840ce.pdf)  
+[SPI](https://edeca.net/page/the-st7565-display-controller/)  
 
 ### Week 14:
 Figure out how to get robot driving and turning, movement handler.  
-[Code]
+[Code](https://github.com/FontysVenlo/prj4e-repository-group_e01/blob/main/src/lynx/src/main.cpp)  
 
 ### Week 15:
 Finalize Design, get monitor and faces working, work on smaller issues, motor stop and go.  
-[Monitor]
-[Website]
-[Faces]
+[Monitor](https://www.tinytronics.nl/en/displays/oled/2.42-inch-oled-display-128*64-pixels-white-i2c)  
+[Monitor code](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/)  
+[Faces Code](https://www.instructables.com/DIY-Cozmo-Robot/)  
+[Face](https://github.com/FontysVenlo/prj4e-individual-respository-CutePinkMoon/blob/main/doc/Fnished_Face.JPEG)  
 
 ### Week 16:
 Make minor tweaks and improvements, finishing following algorithm.  
-[Code]
+[Code](https://github.com/FontysVenlo/prj4e-repository-group_e01/tree/main/src/lynx/src)  
 
 
 
@@ -141,61 +145,61 @@ Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_
 Targeted interaction: New parts have been discussed with team members.  
 
 ### Week 7:
-Future-Oriented organization:  
-Investigative ability:   
+Future-Oriented organization:Learned how to use buttons and analog readings.  
+Investigative ability: No further issues so far.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Continued discussions with team members.  
 
 ### Week 8:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Properly connected new IR sensor and gyroscope to breadboard.  
+Investigative ability: IR sensor range is very short, might become an issue later.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: IR sensor issues are being discussed.  
 
 ### Week 9:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Designed and printed out robot chassis.  
+Investigative ability: Turning axel might be too weak.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: New ideas for the chassis are being discussed.  
 
 ### Week 10:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Add cables to battery pack and mount breadboard.  
+Investigative ability: Will have to power motors seperately.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing how to power motors seperately.  
 
 ### Week 11:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Started off with one microphone, then decided to use two, lots of trial and error in getting it to work, decided to replace IR sensor with ultrasonic sensor for improved range.  
+Investigative ability: Once it got working no further issues.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing how to properly utilize microphones.  
 
 ### Week 12:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Add sperated code into github group codebase and refactor into different classes and header files.  
+Investigative ability: Code interactiong with each other might prove difficult.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing on how to properly get code to interact with each other.  
 
 ### Week 13:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Tried out the first monitor we got and tried to get the robot properly driving for the first time.  
+Investigative ability: Monitor is not working at all, interfacing with the TTGO is very difficult, getting both motors to drive at the same time proved difficult.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing what to do about the monitor and deciding to order a new one.  
 
 ### Week 14:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Further improved driving.  
+Investigative ability: Figured out that motors interfer with ultrasonic sensor, turning and then stopping is proving to be difficult.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing on what to do about the ultrasonic sensor and the movement.  
 
 ### Week 15:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Got the monitor working and added faces and got driving and turning working.  
+Investigative ability: Getting nice faces proved a challenge.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing on hwo to improve movement.  
 
 ### Week 16:
-Future-Oriented organization:  
-Investigative ability:  
+Future-Oriented organization: Making minor improvements.  
+Investigative ability: No further issues.  
 Personal leadership: [Feedback](https://canvas.fontys.nl/courses/26466/external_tools/162)  
-Targeted interaction:  
+Targeted interaction: Discussing end of project.  
