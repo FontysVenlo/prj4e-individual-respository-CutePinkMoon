@@ -27,6 +27,7 @@ Analysis of what parts are needed and how to use them:
 ### Week 3:
 Design Electrical layout:  
 [How to draw electrical diagrams](https://www.smartdraw.com/circuit-diagram/how-to-draw-electrical-diagrams.htm)  
+[Circuit Design](https://github.com/FontysVenlo/prj4e-repository-group_e01/tree/main/doc/PRJ4_Electical_Layout)
 
 ### Week 4:
 Learn how to use physical components:  
@@ -41,39 +42,54 @@ Learn how to use physical components:
 [Gyroscope](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)  
 
 ### Week 6:
-Learn how to use physical components:  
+Finalizing parts list, Learn how to use physical components:  
 [I2C](/doc/I2C.mp4)  
 
 ### Week 7:
 Learn how to use physical components:  
+[Button]
 [Analog reading](/doc/Analog_Input.mp4)  
 
 ### Week 8:
-First project week, connect first sensors and components.  
+First project week, connect first sensors and components. 
+[IR Sensor] Found out was broken
 
 ### Week 9:
-Second project week, hash out further details.  
+Second project week, hash out further details and plan physical construction of the robot.  
+[Base Design]
 
 ### Week 10:
 Connect all sensors and cables to breadboard, have chassis printed out.  
+[Robot]
 
 ### Week 11:
-Get microphones working, get motors driving.  
+Get microphones working, add ultra sonic sensors.  
+[Microphone]
+[Ultra sonic]
 
 ### Week 12:
-Work on code.
+Work on code, seperate code out into classes and header files.  
+[Code]
 
 ### Week 13:
-Try out first monitor.  
+Try out first monitor, first drive.  
+[Monitor]
+[SPI]
+[Datasheet]
 
 ### Week 14:
-Figure out how to get robot driving and turning.  
+Figure out how to get robot driving and turning, movement handler.  
+[Code]
 
 ### Week 15:
-Finalize Design, get monitor and faces working, work on smaller issues.  
+Finalize Design, get monitor and faces working, work on smaller issues, motor stop and go.  
+[Monitor]
+[Website]
+[Faces]
 
 ### Week 16:
-Make minor tweaks and improvements.  
+Make minor tweaks and improvements, finishing following algorithm.  
+[Code]
 
 
 
